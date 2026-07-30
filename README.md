@@ -21,6 +21,13 @@
 - 🎯 Goal: Become a Machine Learning Engineer
 - 🌱 Always learning and building new projects
 
+  ## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=neeravgoyal1105&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeravgoyal1105&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
